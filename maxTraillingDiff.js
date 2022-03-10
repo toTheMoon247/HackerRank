@@ -42,10 +42,4 @@ function calcTraillingDiffs(diffToMyLeft) {
   return traillingDiffs;
 }
 
-// const firstInput = [5, 4, 5, 10, 1, 4, 8, 6, 11, 12, 13];
-// const secondInput = [5, 4, 3, 2, 2, 2];
-// const thirdInput = [5, 1, 7, 0, 9];
-// const output = maxTraillingDiff(secondInput);
-// console.log(output);
-
 module.exports = maxTraillingDiff;

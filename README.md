@@ -3,7 +3,8 @@
 git clone https://github.com/toTheMoon247/pimloc.git
 npm i
 ```
+
 #### To run the tests
-````
+```
 jest
 ```
